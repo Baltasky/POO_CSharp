@@ -1,0 +1,11 @@
+c:\Users\Balta Rdz\Desktop\Etapa1\bin\Debug\netcoreapp2.2\Etapa1.deps.json
+c:\Users\Balta Rdz\Desktop\Etapa1\bin\Debug\netcoreapp2.2\Etapa1.runtimeconfig.json
+c:\Users\Balta Rdz\Desktop\Etapa1\bin\Debug\netcoreapp2.2\Etapa1.runtimeconfig.dev.json
+c:\Users\Balta Rdz\Desktop\Etapa1\bin\Debug\netcoreapp2.2\Etapa1.dll
+c:\Users\Balta Rdz\Desktop\Etapa1\bin\Debug\netcoreapp2.2\Etapa1.pdb
+c:\Users\Balta Rdz\Desktop\Etapa1\obj\Debug\netcoreapp2.2\Etapa1.csprojAssemblyReference.cache
+c:\Users\Balta Rdz\Desktop\Etapa1\obj\Debug\netcoreapp2.2\Etapa1.csproj.CoreCompileInputs.cache
+c:\Users\Balta Rdz\Desktop\Etapa1\obj\Debug\netcoreapp2.2\Etapa1.AssemblyInfoInputs.cache
+c:\Users\Balta Rdz\Desktop\Etapa1\obj\Debug\netcoreapp2.2\Etapa1.AssemblyInfo.cs
+c:\Users\Balta Rdz\Desktop\Etapa1\obj\Debug\netcoreapp2.2\Etapa1.dll
+c:\Users\Balta Rdz\Desktop\Etapa1\obj\Debug\netcoreapp2.2\Etapa1.pdb
