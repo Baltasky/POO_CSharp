@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Balta Rdz\\Desktop\\Etapa1\\Etapa1.csproj",
+      "projectUniqueName": "C:\\Users\\Balta Rdz\\Desktop\\POO_C#\\Etapa1\\Etapa1.csproj",
       "projectName": "Etapa1",
-      "projectPath": "c:\\Users\\Balta Rdz\\Desktop\\Etapa1\\Etapa1.csproj",
+      "projectPath": "C:\\Users\\Balta Rdz\\Desktop\\POO_C#\\Etapa1\\Etapa1.csproj",
       "packagesPath": "C:\\Users\\Balta Rdz\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Balta Rdz\\Desktop\\Etapa1\\obj\\",
+      "outputPath": "C:\\Users\\Balta Rdz\\Desktop\\POO_C#\\Etapa1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

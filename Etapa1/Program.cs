@@ -9,8 +9,9 @@ namespace Etapa1
         {
             var escuela = new Escuela("Utmart", 2008);
             escuela.pais = "México";
+            escuela.tipoEscuela = TiposEscuela.Universidad;
 
-            Console.WriteLine(escuela.Nombre);
+            Console.WriteLine(escuela);
             
             Console.ReadKey();
         }

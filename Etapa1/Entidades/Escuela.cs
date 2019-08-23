@@ -15,6 +15,7 @@ namespace Etapa1.Entidades
         public int añoDeCreacion { get; set;}
         public string pais { get; set; }
         public string ciudad { get; set; }
+        public TiposEscuela tipoEscuela { get; set; }
 
         /*public Escuela(string nombre, int año)
         { 
@@ -23,6 +24,12 @@ namespace Etapa1.Entidades
         } */
 
         //Forma anidada 
-        public Escuela(string nombre, int año) => (Nombre, añoDeCreacion) = (nombre, año); 
+        public Escuela(string nombre, int año) => (Nombre, añoDeCreacion) = (nombre, año);
+
+         public override string ToString()
+        {
+            return $"Nombre: \"{Nombre}\" \nTipo: {tipoEscuela} \nPais: {pais} \nCiudad: {ciudad} ";
+        } 
+        //Estas son unas comillas \" que tiene que dibujar y no que cierre la cadena
     } 
 }
