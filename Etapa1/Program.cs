@@ -1,7 +1,7 @@
 ﻿using System;
 using Etapa1.Entidades;
 
-namespace Etapa1
+namespace Etapa2
 {
     class Program
     {
