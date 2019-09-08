@@ -9,25 +9,42 @@ namespace Etapa2
         {
             var escuela = new Escuela("Utmart", 2008, TiposEscuela.Universidad, ciudad: "Soto La Marina", pais: "mexico");
 
-            var curso1 = new Curso(){
+            var arregloCursos = new Curso[3];
+            
+            arregloCursos[0] = new Curso 
+            {
                 nombre = "Desarrollo Web"
             };
 
-            var curso2 = new Curso(){
+            arregloCursos[1] = new Curso 
+            {
                 nombre = "Git hub"
             };
 
-            var curso3 = new Curso(){
+            arregloCursos[2] = new Curso 
+            {
                 nombre = "Matematicas Aplicadas"
             };
 
             Console.WriteLine(escuela);  
             Console.WriteLine("===================");
-            Console.WriteLine(curso1.nombre +", "+ curso1.uniqueId);
-            Console.WriteLine($"{curso2.nombre}, {curso2.uniqueId}");
-            Console.WriteLine(curso3);
+            ImprimirCursos(arregloCursos);
 
             Console.ReadKey();
+        }
+
+        private static void ImprimirCursos(Curso[] arregloCursos)
+        {
+            int contador = 0;
+
+            while(contador < arregloCursos.Length)
+            {
+                 Console.WriteLine($"Nombre: {arregloCursos[contador].nombre}, Id: {arregloCursos[contador].uniqueId} ");
+                 //contador = contador + 1;
+                 //ontador =+ 1;
+                 contador++;
+
+            }
         }
     }
 }
