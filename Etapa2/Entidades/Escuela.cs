@@ -28,11 +28,13 @@ namespace Etapa2.Entidades
         public Escuela(string nombre, int año) => (Nombre, añoDeCreacion) = (nombre, año);
 
         //Firma del metodo: que valor retorna, el nombre del metodo y que parametros recibe 
-        public Escuela(string nombre, int año, 
-        TiposEscuela tipoEscuela,
+        public Escuela(string nombre, 
+        int año, 
+        TiposEscuela tipo,
         string pais ="", string ciudad ="") //Estos son parametros opcionales
         {
             (Nombre, añoDeCreacion) = (nombre, año);
+            tipoEscuela = tipo;
             this.pais = pais;
             this.ciudad = ciudad;
 
