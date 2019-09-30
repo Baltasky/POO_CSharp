@@ -27,6 +27,8 @@ namespace Etapa2.Entidades
         //Forma anidada 
         public Escuela(string nombre, int año) => (Nombre, añoDeCreacion) = (nombre, año);
 
+        public Curso[] Cursos { get; set; }
+
         //Firma del metodo: que valor retorna, el nombre del metodo y que parametros recibe 
         public Escuela(string nombre, 
         int año, 
