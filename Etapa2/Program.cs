@@ -47,7 +47,7 @@ namespace Etapa2 {
             WriteLine("=====Cursos de la Escuela=====");
             WriteLine("==============================");
 
-            if(escuela?.Cursos != null)
+            if(escuela?.Cursos != null)//? no va a verificar cursos almenos que la escuela sea direfente de null
             {
                 foreach (var curso in escuela.Cursos)
                 {

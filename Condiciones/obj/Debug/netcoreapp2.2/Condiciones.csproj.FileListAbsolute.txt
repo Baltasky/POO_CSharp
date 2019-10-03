@@ -1,0 +1,11 @@
+C:\Users\Balta Rdz\Desktop\Condiciones\bin\Debug\netcoreapp2.2\Condiciones.deps.json
+C:\Users\Balta Rdz\Desktop\Condiciones\bin\Debug\netcoreapp2.2\Condiciones.runtimeconfig.json
+C:\Users\Balta Rdz\Desktop\Condiciones\bin\Debug\netcoreapp2.2\Condiciones.runtimeconfig.dev.json
+c:\Users\Balta Rdz\Desktop\Condiciones\bin\Debug\netcoreapp2.2\Condiciones.dll
+c:\Users\Balta Rdz\Desktop\Condiciones\bin\Debug\netcoreapp2.2\Condiciones.pdb
+c:\Users\Balta Rdz\Desktop\Condiciones\obj\Debug\netcoreapp2.2\Condiciones.csprojAssemblyReference.cache
+c:\Users\Balta Rdz\Desktop\Condiciones\obj\Debug\netcoreapp2.2\Condiciones.csproj.CoreCompileInputs.cache
+c:\Users\Balta Rdz\Desktop\Condiciones\obj\Debug\netcoreapp2.2\Condiciones.AssemblyInfoInputs.cache
+c:\Users\Balta Rdz\Desktop\Condiciones\obj\Debug\netcoreapp2.2\Condiciones.AssemblyInfo.cs
+c:\Users\Balta Rdz\Desktop\Condiciones\obj\Debug\netcoreapp2.2\Condiciones.dll
+c:\Users\Balta Rdz\Desktop\Condiciones\obj\Debug\netcoreapp2.2\Condiciones.pdb
