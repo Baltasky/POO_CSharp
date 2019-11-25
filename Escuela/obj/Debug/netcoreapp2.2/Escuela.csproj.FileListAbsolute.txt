@@ -9,3 +9,14 @@ c:\Users\Balta Rdz\Desktop\Escuela\obj\Debug\netcoreapp2.2\Escuela.AssemblyInfoI
 c:\Users\Balta Rdz\Desktop\Escuela\obj\Debug\netcoreapp2.2\Escuela.AssemblyInfo.cs
 c:\Users\Balta Rdz\Desktop\Escuela\obj\Debug\netcoreapp2.2\Escuela.dll
 c:\Users\Balta Rdz\Desktop\Escuela\obj\Debug\netcoreapp2.2\Escuela.pdb
+c:\Users\Balta Rdz\Desktop\POO_C#\Escuela\bin\Debug\netcoreapp2.2\Escuela.deps.json
+c:\Users\Balta Rdz\Desktop\POO_C#\Escuela\bin\Debug\netcoreapp2.2\Escuela.runtimeconfig.json
+c:\Users\Balta Rdz\Desktop\POO_C#\Escuela\bin\Debug\netcoreapp2.2\Escuela.runtimeconfig.dev.json
+c:\Users\Balta Rdz\Desktop\POO_C#\Escuela\bin\Debug\netcoreapp2.2\Escuela.dll
+c:\Users\Balta Rdz\Desktop\POO_C#\Escuela\bin\Debug\netcoreapp2.2\Escuela.pdb
+c:\Users\Balta Rdz\Desktop\POO_C#\Escuela\obj\Debug\netcoreapp2.2\Escuela.csprojAssemblyReference.cache
+c:\Users\Balta Rdz\Desktop\POO_C#\Escuela\obj\Debug\netcoreapp2.2\Escuela.csproj.CoreCompileInputs.cache
+c:\Users\Balta Rdz\Desktop\POO_C#\Escuela\obj\Debug\netcoreapp2.2\Escuela.AssemblyInfoInputs.cache
+c:\Users\Balta Rdz\Desktop\POO_C#\Escuela\obj\Debug\netcoreapp2.2\Escuela.AssemblyInfo.cs
+c:\Users\Balta Rdz\Desktop\POO_C#\Escuela\obj\Debug\netcoreapp2.2\Escuela.dll
+c:\Users\Balta Rdz\Desktop\POO_C#\Escuela\obj\Debug\netcoreapp2.2\Escuela.pdb

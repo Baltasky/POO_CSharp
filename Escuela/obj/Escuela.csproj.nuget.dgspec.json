@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Balta Rdz\\Desktop\\Escuela\\Escuela.csproj": {}
+    "c:\\Users\\Balta Rdz\\Desktop\\POO_C#\\Escuela\\Escuela.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Balta Rdz\\Desktop\\Escuela\\Escuela.csproj": {
+    "c:\\Users\\Balta Rdz\\Desktop\\POO_C#\\Escuela\\Escuela.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Balta Rdz\\Desktop\\Escuela\\Escuela.csproj",
+        "projectUniqueName": "c:\\Users\\Balta Rdz\\Desktop\\POO_C#\\Escuela\\Escuela.csproj",
         "projectName": "Escuela",
-        "projectPath": "C:\\Users\\Balta Rdz\\Desktop\\Escuela\\Escuela.csproj",
+        "projectPath": "c:\\Users\\Balta Rdz\\Desktop\\POO_C#\\Escuela\\Escuela.csproj",
         "packagesPath": "C:\\Users\\Balta Rdz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Balta Rdz\\Desktop\\Escuela\\obj\\",
+        "outputPath": "c:\\Users\\Balta Rdz\\Desktop\\POO_C#\\Escuela\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

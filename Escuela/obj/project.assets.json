@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Balta Rdz\\Desktop\\Escuela\\Escuela.csproj",
+      "projectUniqueName": "c:\\Users\\Balta Rdz\\Desktop\\POO_C#\\Escuela\\Escuela.csproj",
       "projectName": "Escuela",
-      "projectPath": "c:\\Users\\Balta Rdz\\Desktop\\Escuela\\Escuela.csproj",
+      "projectPath": "c:\\Users\\Balta Rdz\\Desktop\\POO_C#\\Escuela\\Escuela.csproj",
       "packagesPath": "C:\\Users\\Balta Rdz\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Balta Rdz\\Desktop\\Escuela\\obj\\",
+      "outputPath": "c:\\Users\\Balta Rdz\\Desktop\\POO_C#\\Escuela\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
