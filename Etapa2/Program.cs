@@ -6,7 +6,6 @@ namespace Etapa2 {
     class Program {
         static void Main (string[] args) {
             var escuela = new Escuela("Utmart", 2008, TiposEscuela.Universidad, ciudad: "Soto La Marina", pais: "Mexico");
-
            /* 
                 var arregloCursos = new Curso[3] {
                 new Curso () {nombre = "Desarrollo Web"}, 
@@ -14,7 +13,6 @@ namespace Etapa2 {
                 new Curso {nombre = "Matematicas Aplicadas"}
             }; 
             */ 
-
              escuela.Cursos = new Curso[]{
                 new Curso () {nombre = "Desarrollo Web"}, 
                 new Curso {nombre = "Github"},
@@ -22,7 +20,6 @@ namespace Etapa2 {
             }; 
 
             ImprimirCursosEscuela(escuela);
-
            /*
            Console.WriteLine (escuela);
             Console.WriteLine ("\n=================WHILE=================");
@@ -37,7 +34,6 @@ namespace Etapa2 {
             Console.WriteLine ("\n=================FOREACH==================");
             ImprimirCursosForEach (arregloCursos);
             */
-
             ReadKey ();
         }
 
